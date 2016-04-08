@@ -8,5 +8,6 @@ namespace InterfaceSegregationPrinciple
 {
     public class zxcx
     {
+        int a;
     }
 }
