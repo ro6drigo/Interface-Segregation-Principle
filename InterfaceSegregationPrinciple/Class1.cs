@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceSegregationPrinciple
 {
-    public class Class1
+    public class zxcx
     {
     }
 }
